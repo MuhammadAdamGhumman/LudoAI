@@ -1,0 +1,5 @@
+C:\Users\Adam\Desktop\AI Project\LGClient_source\LGClient\bin\Debug\LGClient.exe
+C:\Users\Adam\Desktop\AI Project\LGClient_source\LGClient\bin\Debug\LGClient.pdb
+C:\Users\Adam\Desktop\AI Project\LGClient_source\LGClient\obj\Debug\LGClient.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\AI Project\LGClient_source\LGClient\obj\Debug\LGClient.exe
+C:\Users\Adam\Desktop\AI Project\LGClient_source\LGClient\obj\Debug\LGClient.pdb
